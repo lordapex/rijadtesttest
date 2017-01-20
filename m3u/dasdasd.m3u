@@ -1,88 +1,1254 @@
-#EXTINF:0,TRT HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/559.ts
-#EXTINF:0,TR: TRT HABER
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1090.ts
-#EXTINF:0,TR: TRT Cocuk
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1091.ts
-#EXTINF:0,TR: TRT BELGESEL
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/572.ts
-#EXTINF:0,TR: TRT Avaz
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1084.ts
-#EXTINF:0,TR: TRT Arapca
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1085.ts
-#EXTINF:0,TR: TRT 3 Spor
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1086.ts
-#EXTINF:0,TR: TRT 1HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/560.ts
-#EXTINF:0,TR: STAR TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/565.ts
-#EXTINF:0,TR: SPORTS TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1092.ts
-#EXTINF:0,TR: Show TV HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/564.ts
-#EXTINF:0,TR: Planet Turk
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1143.ts
-#EXTINF:0,TR: NTV Turkiye HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1078.ts
-#EXTINF:0,TR: NTV Spor HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1079.ts
-#EXTINF:0,TR: Mavi Karadeniz
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1069.ts
-#EXTINF:0,TR: Koza TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1070.ts
-#EXTINF:0,TR: Karadeniz TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1071.ts
-#EXTINF:0,TR: Kanal Urfa
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1075.ts
-#EXTINF:0,TR: Kanal T
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/571.ts
-#EXTINF:0,TR: KANAL Firat
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/569.ts
-#EXTINF:0,TR: KANAL D
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/567.ts
-#EXTINF:0,TR: Kanal B
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1072.ts
-#EXTINF:0,TR: Kanal A
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1073.ts
-#EXTINF:0,TR: KANAL 7 HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/570.ts
-#EXTINF:0,TR: Kanal 7 Avrupa
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1083.ts
-#EXTINF:0,TR: KANAL 35
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1065.ts
-#EXTINF:0,TR: Kanal 3
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1074.ts
-#EXTINF:0,TR: HALK TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/575.ts
-#EXTINF:0,TR: FOX TV HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/566.ts
-#EXTINF:0,TR: Euro Star TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/573.ts
-#EXTINF:0,TR: Euro D
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1082.ts
-#EXTINF:0,TR: DREAM TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1094.ts
-#EXTINF:0,TR: DREAM TURK
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1093.ts
-#EXTINF:0,TR: CNN TURK
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1095.ts
-#EXTINF:0,TR: BursaSpor TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1076.ts
-#EXTINF:0,TR: Bloomberg HT
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1077.ts
-#EXTINF:0,TR: BEYAZ TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/576.ts
-#EXTINF:0,TR: Bereket TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1064.ts
-#EXTINF:0,TR: Berat TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1063.ts
-#EXTINF:0,TR: Benguturk TV
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1150.ts
-#EXTINF:0,TR: ATV HD
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/562.ts
-#EXTINF:0,TR: ATV avrupa
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/563.ts
-#EXTINF:0,TR: A Spor
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/1142.ts
-#EXTINF:0,TR TV 8 int
-http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/574.ts
+#EXTM3U
+#EXTINF:-1,ex-Yu: Nova TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1442.ts
+#EXTINF:-1,EX-YU: Nova RS
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1781.ts
+#EXTINF:-1,ex-Yu: Doma TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1456.ts
+#EXTINF:-1,ex-Yu: RTL
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1437.ts
+#EXTINF:-1,EX-YU: RTL 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1752.t#EXTINF:-1,EX-YU: RTS HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1785.ts
+#EXTINF:-1,EX-YU: RTS 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1436.ts
+#EXTINF:-1,EX-YU: RTS 1 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4269.ts
+#EXTINF:-1,EX-YU: RTS 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1435.ts
+#EXTINF:-1,EX-YU: RTS 2 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4268.ts
+#EXTINF:-1,EX-YU: Rtrs
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1784.ts
+#EXTINF:-1,EX-YU: Happy TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1772.ts
+#EXTINF:-1,EX-YU: AXN ADRIA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2371.ts
+#EXTINF:-1,ex-Yu: Prva TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1438.ts
+#EXTINF:-1,ex-Yu: Prva Plus
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1439.ts
+#EXTINF:-1,EX-YU: B92
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1780.ts
+#EXTINF:-1,HRT 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1429.ts
+#EXTINF:-1,HRT 1 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3648.ts
+#EXTINF:-1,HRT 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1428.ts
+#EXTINF:-1,HRT 2 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3649.ts
+#EXTINF:-1,HRT 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1430.ts
+#EXTINF:-1,HRT 3 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4266.ts
+#EXTINF:-1,HRT 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1750.ts
+#EXTINF:-1,HRT 4 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4267.ts
+#EXTINF:-1,EX-YU: AMC
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2348.ts
+#EXTINF:-1,EX-YU: RTL Living
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1753.ts
+#EXTINF:-1,EX-YU: RTL Kockica
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1754.ts
+#EXTINF:-1,EX-YU: CMC
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1763.ts
+#EXTINF:-1,EX-YU: Klasik TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1755.ts
+#EXTINF:-1,EX-YU: 24 Kitchen
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1461.ts
+#EXTINF:-1,Arena Sport 1 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/547.ts
+#EXTINF:-1,Arena Sport 2 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/548.ts
+#EXTINF:-1,Arena Sport 3 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/549.ts
+#EXTINF:-1,Arena Sport 4 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/550.ts
+#EXTINF:-1,Arena Sport 5 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2345.ts
+#EXTINF:-1,Arena Sport 6 HD Croatia
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3646.ts
+#EXTINF:-1,EX-YU: Sportska Tv
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2347.ts
+#EXTINF:-1,Sport Klub HD 1 Cro
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/541.ts
+#EXTINF:-1,Sport Klub HD 2 Cro
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/542.ts
+#EXTINF:-1,Sport Klub HD 3 Cro
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/543.ts
+#EXTINF:-1,Sport Klub HD SRB
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2346.ts
+#EXTINF:-1,Sport Klub 1 Srb
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/544.ts
+#EXTINF:-1,Sport Klub 2 Srb
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/545.ts
+#EXTINF:-1,Sport Klub 3 Srb
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/546.ts
+#EXTINF:-1,Sport Klub 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3025.ts
+#EXTINF:-1,Arena Sport 1 HD SRB
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/551.ts
+#EXTINF:-1,Arena Sport 1 HD SRB (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3525.ts
+#EXTINF:-1,Arena Sport 2 HD SRB
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/552.ts
+#EXTINF:-1,Arena Sport 2 HD SRB (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3526.ts
+#EXTINF:-1,Arena Sport 3 HD SRB
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/553.ts
+#EXTINF:-1,Arena Sport 3 HD SRB (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3527.ts
+#EXTINF:-1,Arena Sport 4 HD SRB
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/554.ts
+#EXTINF:-1,Arena Sport 4 HD SRB (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3528.ts
+#EXTINF:-1,Arena Sport 5 Srb
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/555.ts
+#EXTINF:-1,EX-YU: EuroSport 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1454.ts
+#EXTINF:-1,EX-YU: EuroSport 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1983.ts
+#EXTINF:-1,EX-YU: Fight Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1985.ts
+#EXTINF:-1,EX-YU: RTV 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1782.ts
+#EXTINF:-1,EX-YU: Federalna TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1768.ts
+#EXTINF:-1,ex-Yu: BHT 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1460.ts
+#EXTINF:-1,ex-Yu: OBN
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1441.ts
+#EXTINF:-1,EX-YU: OBN (Backup)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2981.ts
+#EXTINF:-1,EX-YU: TV1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1993.ts
+#EXTINF:-1,EX-YU: TV Sarajevo
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1770.ts
+#EXTINF:-1,EX-YU: MTV IGMAN
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1783.ts
+#EXTINF:-1,EX-YU: TK
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2242.ts
+#EXTINF:-1,EX-YU: OTV Valentino
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2239.ts
+#EXTINF:-1,EX-YU: E!
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1455.ts
+#EXTINF:-1,EX-YU: Face TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1984.ts
+#EXTINF:-1,EX-YU: N1 TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1769.ts
+#EXTINF:-1,EX-YU: Grand
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1449.ts
+#EXTINF:-1,EX-YU: RTL PASSION
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4399.ts
+#EXTINF:-1,EX-YU: RTL CRIME
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4400.ts
+#EXTINF:-1,EX-YU: MiniTV Kids
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1766.ts
+#EXTINF:-1,EX-YU: MTV Adria
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1988.ts
+#EXTINF:-1,EX-YU: BN RS
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1775.ts
+#EXTINF:-1,EX-YU: BN BIH
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4040.ts
+#EXTINF:-1,EX-YU: BN Music
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1981.ts
+#EXTINF:-1,EX-YU: TV Duga
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1982.ts
+#EXTINF:-1,EX-YU: DM SAT
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1774.ts
+#EXTINF:-1,EX-YU: Nickelodeon
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1765.ts
+#EXTINF:-1,EX-YU: Hayatovci
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1778.ts
+#EXTINF:-1,ex-Yu: Hayat HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1448.ts
+#EXTINF:-1,ex-Yu: Hayat Plus
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1447.ts
+#EXTINF:-1,EX-YU: Hayat Folk
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1431.ts
+#EXTINF:-1,EX-YU: HAYAT Music
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2875.ts
+#EXTINF:-1,EX-YU: Alternativna TV (ATV)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1773.ts
+#EXTINF:-1,EX-YU: Al Jazeera Balkans
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1767.ts
+#EXTINF:-1,ex-Yu: CineMax 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1434.ts
+#EXTINF:-1,ex-Yu: CineMax 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1433.ts
+#EXTINF:-1,EX-YU: HBO Adria HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1756.ts
+#EXTINF:-1,EX-YU: HBO 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3568.ts
+#EXTINF:-1,EX-YU: HBO 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4293.ts
+#EXTINF:-1,EX-YU: SOS Kanal
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1445.ts
+#EXTINF:-1,EX-YU: Cinestar TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1757.ts
+#EXTINF:-1,EX-YU: CineStar Action
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3429.ts
+#EXTINF:-1,ex-Yu: CineStar Premiere 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1459.ts
+#EXTINF:-1,ex-Yu: CineStar Premiere 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1458.ts
+#EXTINF:-1,EX-YU: Fox
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1450.ts
+#EXTINF:-1,ex-Yu: Fox Life HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1452.ts
+#EXTINF:-1,ex-Yu: Fox Movies
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1451.ts
+#EXTINF:-1,ex-Yu: Fox Crime
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1453.ts
+#EXTINF:-1,EX-YU: Investigation Discovery
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1758.ts
+#EXTINF:-1,EX-YU: National Geographic Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1443.ts
+#EXTINF:-1,ex-Yu: Discovery Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1457.ts
+#EXTINF:-1,ex-Yu: History Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1444.ts
+#EXTINF:-1,EX-YU: Animal Planet (RS)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1994.ts
+#EXTINF:-1,EX-YU: LOV I RIBOLOV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1762.ts
+#EXTINF:-1,EX-YU: PINK
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1030.ts
+#EXTINF:-1,EX-YU: PINK 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1028.ts
+#EXTINF:-1,EX-YU: PINK 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1027.ts
+#EXTINF:-1,EX-YU: Pink Serije
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3430.ts
+#EXTINF:-1,EX-YU: PINK ACTION
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1026.ts
+#EXTINF:-1,EX-YU: Pink Premium
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1012.ts
+#EXTINF:-1,EX-YU: Pink Horror
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1006.ts
+#EXTINF:-1,EX-YU: Pink Thriller
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1789.ts
+#EXTINF:-1,EX-YU: Pink Classic
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4050.ts
+#EXTINF:-1,EX-YU: PINK WORLD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1013.ts
+#EXTINF:-1,EX-YU: PINK PEDIA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1017.ts
+#EXTINF:-1,EX-YU: Pink Show
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3828.ts
+#EXTINF:-1,EX-YU: Pink Music
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1790.ts
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1987.ts
+#EXTINF:-1,EX-YU: Pink Soap
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3522.ts
+#EXTINF:-1,EX-YU: Pink Movies
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3566.ts
+#EXTINF:-1,EX-YU: Pink World Cinema
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3443.ts
+#EXTINF:-1,EX-YU: Pink Zabava
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1011.ts
+#EXTINF:-1,EX-YU: PINK REALITY
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1016.ts
+#EXTINF:-1,EX-YU: PINK KIDS
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1020.ts
+#EXTINF:-1,EX-YU: Pink Plus
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1003.ts
+#EXTINF:-1,EX-YU: PINK SCI-FI & FANTASY
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1788.ts
+#EXTINF:-1,EX-YU: Pink Folk 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1007.ts
+#EXTINF:-1,EX-YU: PINK FOLK 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1021.ts
+#EXTINF:-1,EX-YU: Pink Romance
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1991.ts
+#EXTINF:-1,EX-YU: PINK Crime & Mystery
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1029.ts
+#EXTINF:-1,EX-YU: PINK COMEDY
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1024.ts
+#EXTINF:-1,EX-YU: PINK EXTRA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1023.ts
+#EXTINF:-1,EX-YU: PINK WESTERN
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1014.ts
+#EXTINF:-1,EX-YU: Pink BH
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1008.ts
+#EXTINF:-1,EX-YU: Pink Film
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1787.ts
+#EXTINF:-1,EX-YU: PINK M
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1019.ts
+#EXTINF:-1,EX-YU: A1 Balkan
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3269.ts
+#EXTINF:-1,EX-YU: TV Banovina
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3827.ts
+#EXTINF:-1,EX-YU: Izvorna TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3829.ts
+#EXTINF:-1,EX-YU: POSAVINA TV (ptv)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2849.ts
+#EXTINF:-1,EX-YU: ALFA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2847.ts
+#EXTINF:-1,EX-YU: SITEL
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2846.ts
+#EXTINF:-1,EX-YU: Sitel 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2843.ts
+#EXTINF:-1,EX-YU: MRT 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2840.ts
+#EXTINF:-1,EX-YU: MRT 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3677.ts
+#EXTINF:-1,EX-YU: Kanal 5
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2844.ts
+#EXTINF:-1,EX-YU: TELMA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2850.ts
+#EXTINF:-1,BG: Balkanika Music TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2889.ts
+#EXTINF:-1,FR: SFR Sport 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3747.ts
+#EXTINF:-1,FR: SFR Sport 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3744.ts
+#EXTINF:-1,FR: SFR Sport 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3984.ts
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/851.ts
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/850.ts
+#EXTINF:-1,FR: beIN SPORTS 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2013.ts
+#EXTINF:-1,ALB: Tring Sport News HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2604.ts
+#EXTINF:-1,ALB: Tring Sport 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2389.ts
+#EXTINF:-1,ALB: Tring Sport 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2390.ts
+#EXTINF:-1,ALB: Tring Sport 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2391.ts
+#EXTINF:-1,ALB: Tring Sport 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2392.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1040.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 1 HD (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3751.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1039.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 2 HD (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3752.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1038.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 3 HD (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3753.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1037.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 4 HD (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4041.ts
+#EXTINF:-1,ALB: DigitAlb Supersport 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2669.ts
+#EXTINF:-1,ALB: SuperSport Kosova HD1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1966.ts
+#EXTINF:-1,ALB: SuperSport Kosova HD2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1965.ts
+#EXTINF:-1,CA: SportsNet ONE
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3699.ts
+#EXTINF:-1,CA: SportsNet WORLD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3748.ts
+#EXTINF:-1,CA: SportsNet 360
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3749.ts
+#EXTINF:-1,CA: SportsNet Ontario
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3750.ts
+#EXTINF:-1,BEIN SPORTS NEWS
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3505.ts
+#EXTINF:-1,beIN SPORTS 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/351.ts
+#EXTINF:-1,Bein Sports 1 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2337.ts
+#EXTINF:-1,beIN SPORTS 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/352.ts
+#EXTINF:-1,Bein Sports 2 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2330.ts
+#EXTINF:-1,beIN SPORTS 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/353.ts
+#EXTINF:-1,Bein Sports 3 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2329.ts
+#EXTINF:-1,beIN SPORTS 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/354.ts
+#EXTINF:-1,Bein Sports 4 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2328.ts
+#EXTINF:-1,beIN SPORTS 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/355.ts
+#EXTINF:-1,Bein Sports 5 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2327.ts
+#EXTINF:-1,beIN SPORTS 6 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/356.ts
+#EXTINF:-1,Bein Sports 6 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2326.ts
+#EXTINF:-1,beIN SPORTS 7 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/357.ts
+#EXTINF:-1,Bein Sports 7 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2325.ts
+#EXTINF:-1,beIN SPORTS 8 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/358.ts
+#EXTINF:-1,Bein Sports 8 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2324.ts
+#EXTINF:-1,beIN SPORTS 9 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/359.ts
+#EXTINF:-1,Bein Sports 9 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2323.ts
+#EXTINF:-1,beIN SPORTS 10 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/360.ts
+#EXTINF:-1,Bein Sports 10 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2336.ts
+#EXTINF:-1,beIN SPORTS 11 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/361.ts
+#EXTINF:-1,Bein Sports 11 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2335.ts
+#EXTINF:-1,beIN SPORTS 12 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/362.ts
+#EXTINF:-1,Bein Sports 12 HD ( Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2334.ts
+#EXTINF:-1,beIN SPORTS 13 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3669.ts
+#EXTINF:-1,beIN SPORTS CA
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2148.ts
+#EXTINF:-1,TSN 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/556.ts
+#EXTINF:-1,TSN 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/557.ts
+#EXTINF:-1,TSN 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/558.ts
+#EXTINF:-1,TSN 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/559.ts
+#EXTINF:-1,TSN 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/560.ts
+#EXTINF:-1,DE: SKY Sport HD1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/13.ts
+#EXTINF:-1,DE: SKY Sport HD1 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3254.ts
+#EXTINF:-1,DE: SKY SPORT HD2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/14.ts
+#EXTINF:-1,DE: SKY SPORT HD2 (Back up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3253.ts
+#EXTINF:-1,DE: SKY Sport 3 (Streaming on live matches)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3364.ts
+#EXTINF:-1,DE: Sky Sport 4 (Streaming on live matches)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3701.ts
+#EXTINF:-1,DE: Sky Sport 5 (Streaming on live matches)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3702.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2699.ts
+#EXTINF:-1,DE: SportDigital HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2698.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2365.ts
+#EXTINF:-1,DE: SKY Bundesliga 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/73.ts
+#EXTINF:-1,DE: SKY Bundesliga 1 (Back Up)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3252.ts
+#EXTINF:-1,DE: SKY Bundesliga 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2961.ts
+#EXTINF:-1,DE: Sky BundesLiga 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2991.ts
+#EXTINF:-1,DE: Sky BundesLiga 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2992.ts
+#EXTINF:-1,DE: Sky BundesLiga 5
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2993.ts
+#EXTINF:-1,DE: Sky BundesLiga 6
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2994.ts
+#EXTINF:-1,DE: Sky BundesLiga 7
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2995.ts
+#EXTINF:-1,DE: Sky BundesLiga 8
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2996.ts
+#EXTINF:-1,DE: Sky BundesLiga 9
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2997.ts
+#EXTINF:-1,DE: Sky BundesLiga 10
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2998.ts
+#EXTINF:-1,DE: Eurosport 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/937.ts
+#EXTINF:-1,DE: DMAX HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3335.ts
+#EXTINF:-1,DE: SYFY HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2912.ts
+#EXTINF:-1,DE: N24
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/971.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3587.ts
+#EXTINF:-1,DE: Pro Sieben Maxx
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3585.ts
+#EXTINF:-1,DE: Classica
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3593.ts
+#EXTINF:-1,DE: Animal Planet HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3586.ts
+#EXTINF:-1,DE: N-TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/972.ts
+#EXTINF:-1,DE: E! Entertainment
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3334.ts
+#EXTINF:-1,DE: PRO SIEBEN HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/901.ts
+#EXTINF:-1,DE: RTL HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/899.ts
+#EXTINF:-1,DE: RTL 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/969.ts
+#EXTINF:-1,DE: Super RTL
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/887.ts
+#EXTINF:-1,DE: RTL Living HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3456.ts
+#EXTINF:-1,DE: RTL Crime HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3455.ts
+#EXTINF:-1,DE: RTL Nitro
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/967.ts
+#EXTINF:-1,DE: WDR HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/979.ts
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/968.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/898.ts
+#EXTINF:-1,DE: SAT.1 Gold
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2936.ts
+#EXTINF:-1,DE: TNT FILM HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2915.ts
+#EXTINF:-1,DE: TNT Serie HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/964.ts
+#EXTINF:-1,DE: FOX HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2366.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/878.ts
+#EXTINF:-1,DE: Sky Cinema +1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2959.ts
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/896.ts
+#EXTINF:-1,DE: SKY COMEDY
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/876.ts
+#EXTINF:-1,DE: SKY Krimi
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1149.ts
+#EXTINF:-1,DE: SKY Hits HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/935.ts
+#EXTINF:-1,DE: Sky Emotion
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/940.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/897.ts
+#EXTINF:-1,DE: Sky Action
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/877.ts
+#EXTINF:-1,DE: Sky Germany MGM
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/883.ts
+#EXTINF:-1,DE: Servus TV HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1913.ts
+#EXTINF:-1,DE: PHOENIX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1733.ts
+#EXTINF:-1,DE: NDR HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1912.ts
+#EXTINF:-1,DE: National Geographic HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/881.ts
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/882.ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/905.ts
+#EXTINF:-1,DE: SIXX HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3457.ts
+#EXTINF:-1,DE: History HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/938.ts
+#EXTINF:-1,DE: KABEL EINS HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/884.ts
+#EXTINF:-1,DE: Disney Junior
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3493.ts
+#EXTINF:-1,DE: Disney XD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3494.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2368.ts
+#EXTINF:-1,DE: Kika
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/904.ts
+#EXTINF:-1,DE: AXN HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1151.ts
+#EXTINF:-1,DE: VOX HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/886.ts
+#EXTINF:-1,DE: Arte
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1544.ts
+#EXTINF:-1,DE: ARD HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1150.ts
+#EXTINF:-1,DE: 3SAT
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/978.ts
+#EXTINF:-1,DE: 13th Street Universal
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/939.ts
+#EXTINF:-1,DE: ZDF HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/885.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/976.ts
+#EXTINF:-1,DE: Sky Select 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/975.ts
+#EXTINF:-1,DE: Sky Select 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/974.ts
+#EXTINF:-1,DE: Sky Select 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/965.ts
+#EXTINF:-1,DE: Sky Select 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/879.ts
+#EXTINF:-1,DE: Sky Select 6 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/875.ts
+#EXTINF:-1,AU: SKY Sport Austria
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2340.ts
+#EXTINF:-1,AU: ORF Eins HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/903.ts
+#EXTINF:-1,AU: ORF 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/902.ts
+#EXTINF:-1,MIO Stadium 102 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3416.ts
+#EXTINF:-1,MIO Stadium 103 HD (Eleven Plus)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3417.ts
+#EXTINF:-1,MIO Stadium 104 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3418.ts
+#EXTINF:-1,MIO Stadium 105 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3419.ts
+#EXTINF:-1,MIO Stadium 106 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3420.ts
+#EXTINF:-1,MIO Stadium 107 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3421.ts
+#EXTINF:-1,MIO Stadium 108 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3422.ts
+#EXTINF:-1,UK: SKY Sports News
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/595.ts
+#EXTINF:-1,UK: SKY Sports 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1527.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/15.ts
+#EXTINF:-1,UK: SKY Sports 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1526.ts
+#EXTINF:-1,UK: SKY Sports 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/16.ts
+#EXTINF:-1,UK: SKY Sports 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1525.ts
+#EXTINF:-1,UK: SKY Sports 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/17.ts
+#EXTINF:-1,UK: SKY Sports 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1524.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/18.ts
+#EXTINF:-1,UK: SKY Sports 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1523.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/19.ts
+#EXTINF:-1,UK: SKY Sports F1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2969.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1697.ts
+#EXTINF:-1,UK: BT Sport 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/20.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1791.ts
+#EXTINF:-1,UK: BT Sport 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/21.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3365.ts
+#EXTINF:-1,UK: BT Sport 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1741.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2362.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1794.ts
+#EXTINF:-1,UK: Premier Sports HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/597.ts
+#EXTINF:-1,UK: Eir Sport 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3746.ts
+#EXTINF:-1,Astro Supersport 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2360.ts
+#EXTINF:-1,Astro Supersport 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2359.ts
+#EXTINF:-1,Astro Supersport 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2358.ts
+#EXTINF:-1,Astro Supersport 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2357.ts
+#EXTINF:-1,IT: SKY Sport 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/83.ts
+#EXTINF:-1,IT: SKY Sport 1 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3998.ts
+#EXTINF:-1,IT: SKY Sport 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/81.ts
+#EXTINF:-1,IT: SKY Sport 2 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4105.ts
+#EXTINF:-1,IT: SKY Sport 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/397.ts
+#EXTINF:-1,IT: SKY Sport 24 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/84.ts
+#EXTINF:-1,IT: SKY Sport F1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/80.ts
+#EXTINF:-1,IT: SKY MOTO GP
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/788.ts
+#EXTINF:-1,IT: FOX Sports HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/169.ts
+#EXTINF:-1,IT: SKY/Fox Sports Plus HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2558.ts
+#EXTINF:-1,IT: Juventus Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3704.ts
+#EXTINF:-1,IT: Inter Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4075.ts
+#EXTINF:-1,IT: Milan Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4074.ts
+#EXTINF:-1,IT: Roma Channel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4077.ts
+#EXTINF:-1,IT: SKY Supercalcio HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/429.ts
+#EXTINF:-1,IT: SKY Calcio 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/749.ts
+#EXTINF:-1,IT: SKY Calcio 1 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3990.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2232.ts
+#EXTINF:-1,IT: SKY Calcio 2 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3997.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2231.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4179.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2418.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD ***
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/4178.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2417.ts
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2416.ts
+#EXTINF:-1,IT: SKY Cinema Family HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/805.ts
+#EXTINF:-1,IT: SKY Cinema Comedy HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/807.ts
+#EXTINF:-1,IT: SKY Cinema +24 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/801.ts
+#EXTINF:-1,IT: RAI 1 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/435.ts
+#EXTINF:-1,IT: RAI 2 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/436.ts
+#EXTINF:-1,IT: RAI 3 HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/437.ts
+#EXTINF:-1,IT: Primafila 1/2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/770.ts
+#EXTINF:-1,IT: Primafila 3/4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/769.ts
+#EXTINF:-1,IT: Primafila 5/6
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/768.ts
+#EXTINF:-1,IT: Primafila 7/8
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/767.ts
+#EXTINF:-1,IT: Primafila 9/10
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/766.ts
+#EXTINF:-1,IT: Primafila 11/12
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/765.ts
+#EXTINF:-1,IT: Primafila 13/14
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/764.ts
+#EXTINF:-1,IT: Primafila 15/16
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/763.ts
+#EXTINF:-1,IT: Primafila 17/18
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2104.ts
+#EXTINF:-1,IT: Primafila 19/20
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2105.ts
+#EXTINF:-1,TR: Lig TV 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1379.ts
+#EXTINF:-1,TR: Lig TV 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1378.ts
+#EXTINF:-1,TR: Lig Tv 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1377.ts
+#EXTINF:-1,TR: Lig Tv 4 (Stream on live maches)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3853.ts
+#EXTINF:-1,xXx: Balkan Erotic
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2350.ts
+#EXTINF:-1,xXx: Sexto Senso
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3745.ts
+#EXTINF:-1,xXx: CENTOXCENTO
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/3529.ts
+#EXTINF:-1,xXx: Eroxxx HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/2914.ts
+#EXTINF:-1,xXx: PINK Erotic 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/519.ts
+#EXTINF:-1,xXx: PINK Erotic 2
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/520.ts
+#EXTINF:-1,xXx: PINK Erotic 3
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/521.ts
+#EXTINF:-1,xXx: PINK Erotic 4
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/522.ts
+#EXTINF:-1,xXx: Hot (PT)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1255.ts
+#EXTINF:-1,xXx: VENUS (PT)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1242.ts
+#EXTINF:-1,xXx: Playboy TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/399.ts
+#EXTINF:-1,xXx: DUSK! (NL)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/982.ts
+#EXTINF:-1,xXx: Meiden van Holland Hard (NL)
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/989.ts
+#EXTINF:-1,xXx: PassieXXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/990.ts
+#EXTINF:-1,xXx: Dorcel
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1735.ts
+#EXTINF:-1,xXx: BRAZZERS TV XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/991.ts
+#EXTINF:-1,xXx: HUSTLER TV
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1606.ts
+#EXTINF:-1,xXx: Redlight HD
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/983.ts
+#EXTINF:-1,xXx: Penthouse HD 1
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/1578.ts
+#EXTINF:-1,HOT CLUB 1 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/244.ts
+#EXTINF:-1,HOT CLUB 2 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/243.ts
+#EXTINF:-1,HOT CLUB 3 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/9.ts
+#EXTINF:-1,HOT CLUB 4 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/8.ts
+#EXTINF:-1,HOT CLUB 5 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/7.ts
+#EXTINF:-1,HOT CLUB 6 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/321.ts
+#EXTINF:-1,HOT CLUB 7 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/524.ts
+#EXTINF:-1,HOT CLUB 8 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/525.ts
+#EXTINF:-1,HOT CLUB 9 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/324.ts
+#EXTINF:-1,HOT CLUB 10 XXX
+http://tv.supertv4u.eu:8000/live/99jalmir/almirbc/325.ts
+#EXTINF:-1,Crimson Peak (2015) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4273.mkv
+#EXTINF:-1,The Magnificent Seven (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4265.mkv
+#EXTINF:-1,Hell or High Water (2016) [IT] (h.265)
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4264.mkv
+#EXTINF:-1,Neighbors 2: Sorority Rising (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4263.mkv
+#EXTINF:-1,Ben-Hur (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4195.mkv
+#EXTINF:-1,Sully (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4201.mkv
+#EXTINF:-1,Fantastic Beasts and Where to Find Them (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4202.mkv
+#EXTINF:-1,Suicide Squad (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4198.mkv
+#EXTINF:-1,Misconduct (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4196.mkv
+#EXTINF:-1,The Windmill Massacre (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4199.mkv
+#EXTINF:-1,Miss Peregrine's Home for Peculiar Children (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4197.mkv
+#EXTINF:-1,Pete's Dragon (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4200.mkv
+#EXTINF:-1,Lo chiamavano Jeeg Robot (2015) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4194.mkv
+#EXTINF:-1,Quel bravo ragazzo (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4188.mkv
+#EXTINF:-1,Mr. Church (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4117.mkv
+#EXTINF:-1,The Trust (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4116.mkv
+#EXTINF:-1,Blood Father (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4115.mkv
+#EXTINF:-1,War Dogs (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4119.mkv
+#EXTINF:-1,Skiptrace (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4118.mkv
+#EXTINF:-1,Everybody Wants Some!! (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4120.mkv
+#EXTINF:-1,Toro (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4099.mkv
+#EXTINF:-1,Fuocoammare (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4087.mp4
+#EXTINF:-1,Onda su onda (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4088.mkv
+#EXTINF:-1,Miami Beach (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4089.mkv
+#EXTINF:-1,La coppia dei campioni (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4090.mkv
+#EXTINF:-1,Jason Bourne (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4052.mkv
+#EXTINF:-1,10 Cloverfield Lane (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4065.mkv
+#EXTINF:-1,Money Monster (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4059.mkv
+#EXTINF:-1,The Secret Life of Pets (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4060.mkv
+#EXTINF:-1,Zeta (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4061.mkv
+#EXTINF:-1,Tini: La nouvelle vie de Violetta (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4057.mkv
+#EXTINF:-1,Perfetti sconosciuti (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4051.mp4
+#EXTINF:-1,La pazza gioia (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4053.mp4
+#EXTINF:-1,The Choice (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4054.mkv
+#EXTINF:-1,Star Trek Beyond (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4016.mp4
+#EXTINF:-1,The Neon Demon (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4022.mkv
+#EXTINF:-1,The Darkness (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4021.mkv
+#EXTINF:-1,Il Ragazzo Della Giudecca (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4020.mkv
+#EXTINF:-1,Independence Day: Resurgence (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4014.mp4
+#EXTINF:-1,Jack Reacher: Never Go Back (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4015.mkv
+#EXTINF:-1,Game Of Thrones s06e01-The Red Woman [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3444.mkv
+#EXTINF:-1,Game Of Thrones s06e02-Home [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3453.mkv
+#EXTINF:-1,Game Of Thrones s06e03-Oathbreaker [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3521.mkv
+#EXTINF:-1,Game Of Thrones s06e04-Book of the Stranger [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3517.mkv
+#EXTINF:-1,Game Of Thrones s06e05-The Door [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3549.mkv
+#EXTINF:-1,Game Of Thrones s06e06-Blood of My Blood [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3546.mkv
+#EXTINF:-1,Game Of Thrones s06e07-The Broken Man [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3619.mkv
+#EXTINF:-1,Game Of Thrones s06e08-No One [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3620.mkv
+#EXTINF:-1,Game Of Thrones s06e09-Battle of the Bastards [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3621.mkv
+#EXTINF:-1,Game Of Thrones s06e10-The Winds of Winter [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3630.mkv
+#EXTINF:-1,Confirmation (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3675.mkv
+#EXTINF:-1,La corrispondenza (2016) [DA: IT-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3639.avi
+#EXTINF:-1,L'abbiamo fatta grossa (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3636.mp4
+#EXTINF:-1,Hail Caesar! (2016) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3634.mkv
+#EXTINF:-1,Secret in Their Eyes (2015) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3660.mkv
+#EXTINF:-1,The Revenant (2015) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3637.mkv
+#EXTINF:-1,Mad Max: Fury Road (2015) [DA: IT-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3642.mkv
+#EXTINF:-1,The Hateful Eight (2015) [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3638.mkv
+#EXTINF:-1,Avengers: Age of Ultron (2015) [DA: IT-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2902.mkv
+#EXTINF:-1,Paper Towns (2015) [DA: IT-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2903.mkv
+#EXTINF:-1,La famille Bélier (2014) [DA: IT-FR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2907.mkv
+#EXTINF:-1,Dirty Grandpa [IT]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3427.mkv
+#EXTINF:-1,The Fault In Our Stars
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3250.mp4
+#EXTINF:-1,Fuga in tacchi a spillo
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3251.mp4
+#EXTINF:-1,Snitch
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2896.mkv
+#EXTINF:-1,Brick Mansions
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2897.mkv
+#EXTINF:-1,Man of Tai Chi
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2898.mkv
+#EXTINF:-1,Anarchia La Notte Del Giudizio
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2899.mkv
+#EXTINF:-1,Black Sea
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2900.mkv
+#EXTINF:-1,Pixels
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2901.mkv
+#EXTINF:-1,Vehicle 19
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2881.mkv
+#EXTINF:-1,Stolen
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2882.mkv
+#EXTINF:-1,Killing Season
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2883.mkv
+#EXTINF:-1,Killer Elite
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2884.mkv
+#EXTINF:-1,Apocalypse Pompeii
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2885.mkv
+#EXTINF:-1,Stalingrand
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2886.mkv
+#EXTINF:-1,Solo per Vendetta
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2887.mkv
+#EXTINF:-1,Lone Survivor
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2888.mkv
+#EXTINF:-1,Third Person
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2904.mkv
+#EXTINF:-1,The BFG (2016) [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4114.mkv
+#EXTINF:-1,A Hologram for the King (2016) [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4055.mp4
+#EXTINF:-1,Star Trek Beyond (2016) [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4030.mp4
+#EXTINF:-1,Ratchet & Clank (2016) [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4064.mp4
+#EXTINF:-1,Riphagen (2016) [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4031.mp4
+#EXTINF:-1,Game Of Thrones s06e01-The Red Woman [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3442.mkv
+#EXTINF:-1,Game Of Thrones s06e02-Home [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3501.mkv
+#EXTINF:-1,Game Of Thrones s06e03-Oathbreaker [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3520.mkv
+#EXTINF:-1,Game Of Thrones s06e04-Book of the Stranger [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3553.mkv
+#EXTINF:-1,Game Of Thrones s06e05-The Door [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3552.mkv
+#EXTINF:-1,Game Of Thrones s06e06-Blood of My Blood [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3550.mkv
+#EXTINF:-1,Game Of Thrones s06e07-The Broken Man [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3625.mkv
+#EXTINF:-1,Game Of Thrones s06e08-No One [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3626.mkv
+#EXTINF:-1,Game Of Thrones s06e09-Battle of the Bastards [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3627.mkv
+#EXTINF:-1,Game Of Thrones s06e10-The Winds of Winter [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3635.mkv
+#EXTINF:-1,The Hunger Games: Mockingjay-Part 2 [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3314.mp4
+#EXTINF:-1,Irrational Man [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3342.mp4
+#EXTINF:-1,Bridge of spies 2015 [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3310.mp4
+#EXTINF:-1,UnREAL [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3316.mp4
+#EXTINF:-1,THE WALK [ DE ]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2729.mkv
+#EXTINF:-1,The Dressmaker [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3321.mkv
+#EXTINF:-1,Steve Jobs [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3324.mkv
+#EXTINF:-1,Sisters [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3326.mp4
+#EXTINF:-1,Scream at the Devil [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3327.mkv
+#EXTINF:-1,Rettet Raffi! [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3328.mp4
+#EXTINF:-1,Ratter [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3329.mp4
+#EXTINF:-1,Pan [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3330.mp4
+#EXTINF:-1,Mia madre [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3336.mp4
+#EXTINF:-1,Martian Land [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3337.mp4
+#EXTINF:-1,Macho Man [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3338.mp4
+#EXTINF:-1,La captive [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3341.mp4
+#EXTINF:-1,L.A. Slasher [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3339.mp4
+#EXTINF:-1,Kill Zone 2 [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3340.mp4
+#EXTINF:-1,In the Heart of the Sea [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3343.mp4
+#EXTINF:-1,Im Sommer wohnt er unten [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3344.mp4
+#EXTINF:-1,Highway to Hellas [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3345.mp4
+#EXTINF:-1,Heaven on Earth [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3346.mp4
+#EXTINF:-1,Grandma [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3347.mp4
+#EXTINF:-1,Goosebumps [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3348.mp4
+#EXTINF:-1,Get Squirrely [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3349.mp4
+#EXTINF:-1,Fúsi [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3350.mp4
+#EXTINF:-1,Freaks of Nature [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3351.mp4
+#EXTINF:-1,Taxi [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3323.mp4
+#EXTINF:-1,Terminus [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3322.mp4
+#EXTINF:-1,The Revenant [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3319.mp4
+#EXTINF:-1,Twilight Over Burma [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3317.mp4
+#EXTINF:-1,Trigger Point [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3318.mp4
+#EXTINF:-1,Woman in Gold [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3315.mp4
+#EXTINF:-1,Black Mass [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3311.mp4
+#EXTINF:-1,Ant-Man [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3312.mp4
+#EXTINF:-1,Everest
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3257.avi
+#EXTINF:-1,Elser
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3258.mp4
+#EXTINF:-1,Jurassic World
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3259.mp4
+#EXTINF:-1,Mission Impossible - Rogue Nation
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3260.mp4
+#EXTINF:-1,Legend [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3261.mkv
+#EXTINF:-1,Monster High Boo York, Boo York [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3262.mp4
+#EXTINF:-1,The Longest Ride [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3264.mp4
+#EXTINF:-1,Love, Rosie [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3265.mkv
+#EXTINF:-1,Kingsman The Secret Service [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3266.mkv
+#EXTINF:-1,Star Wars The Force Awakens [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3268.mkv
+#EXTINF:-1,AMY [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3267.mkv
+#EXTINF:-1,EVEREST [ DE ]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2732.mkv
+#EXTINF:-1,Cartel Land
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3256.mp4
+#EXTINF:-1,Kung Fury [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3263.mp4
+#EXTINF:-1,Southpaw
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2815.mkv
+#EXTINF:-1,Sinister 2
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2906.mkv
+#EXTINF:-1,The Pyramide [ DE ]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2730.mkv
+#EXTINF:-1,"Spooks: The Greater Good" [ DE ]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2731.mkv
+#EXTINF:-1,Blackhat (2015) [DA: DE-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2126.mkv
+#EXTINF:-1,Chappie
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2127.mkv
+#EXTINF:-1,Lockout
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2128.mkv
+#EXTINF:-1,Dallas Buyers Club [DE]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2130.mkv
+#EXTINF:-1,The Gambler (2014) [DA: DE-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2131.mkv
+#EXTINF:-1,Furious Seven (2015) [DA: DE-ENG]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2125.mkv
+#EXTINF:-1,The Magnificent Seven (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4559.mkv
+#EXTINF:-1,Free State of Jones (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4560.mp4
+#EXTINF:-1,Recovery (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4558.mkv
+#EXTINF:-1,Skiptrace (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4556.mp4
+#EXTINF:-1,Urge (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4554.mkv
+#EXTINF:-1,Sea Fog (2014) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4557.mkv
+#EXTINF:-1,Cold War (2012) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4555.mp4
+#EXTINF:-1,Cold War II (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4524.mkv
+#EXTINF:-1,Don Verdean (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4523.mkv
+#EXTINF:-1,Coin Heist (2017) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4424.mkv
+#EXTINF:-1,Sr. Pig (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4425.mkv
+#EXTINF:-1,Mei ren yu (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4423.mkv
+#EXTINF:-1,Supilinna Salaselts (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4422.mkv
+#EXTINF:-1,Black Mass (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4257.mkv
+#EXTINF:-1,Burnt (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4261.mkv
+#EXTINF:-1,Crimson Peak (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4256.mkv
+#EXTINF:-1,Heist (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4259.mkv
+#EXTINF:-1,Our Brand Is Crisis (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4258.mkv
+#EXTINF:-1,Pay the Ghost (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4262.mkv
+#EXTINF:-1,Secret in Their Eyes (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4260.mkv
+#EXTINF:-1,Ben-Hur (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4236.mkv
+#EXTINF:-1,Star Wars: Episode VII - The Force Awakens (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4180.mkv
+#EXTINF:-1,The Hunger Games (2012) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4185.mp4
+#EXTINF:-1,The Hunger Games: Catching Fire (2013) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4186.mp4
+#EXTINF:-1,The Hunger Games: Mockingjay - Part 1 (2014) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4189.mkv
+#EXTINF:-1,The Hunger Games: Mockingjay - Part 2 (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4187.mkv
+#EXTINF:-1,The Hateful Eight (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4183.mkv
+#EXTINF:-1,Crouching Tiger. Hidden Dragon: Sword of Destiny (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4184.mkv
+#EXTINF:-1,The Choice (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4149.mp4
+#EXTINF:-1,Bridge of Spies (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4151.mp4
+#EXTINF:-1,Backtrack (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4152.mkv
+#EXTINF:-1,Joy (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4150.mkv
+#EXTINF:-1,Before I Wake (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4106.mkv
+#EXTINF:-1,The Infiltrator (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4113.mkv
+#EXTINF:-1,The 5th Wave (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4108.mkv
+#EXTINF:-1,Neighbors 2: Sorority Rising (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4109.mkv
+#EXTINF:-1,Suicide Squad (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4111.mkv
+#EXTINF:-1,God's Not Dead 2 (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4110.mp4
+#EXTINF:-1,Victor Frankenstein (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4107.mkv
+#EXTINF:-1,X-Men: Apocalypse (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4070.mp4
+#EXTINF:-1,Central Intelligence (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4068.mp4
+#EXTINF:-1,Warcraft (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4069.mp4
+#EXTINF:-1,Jason Bourne (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4038.mp4
+#EXTINF:-1,Star Trek Beyond (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4062.mkv
+#EXTINF:-1,Teenage Mutant Ninja Turtles: Out of the Shadows (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4037.mp4
+#EXTINF:-1,The Legend of Tarzan (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4024.mp4
+#EXTINF:-1,The Jungle Book (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4023.mp4
+#EXTINF:-1,Allegiant (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4025.mp4
+#EXTINF:-1,Batman v Superman: Dawn of Justice (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4026.mp4
+#EXTINF:-1,Me Before You (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4027.mp4
+#EXTINF:-1,Creed (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4028.mkv
+#EXTINF:-1,Deadpool (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/4029.mp4
+#EXTINF:-1,Game Of Thrones s06e01-The Red Woman [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3435.mkv
+#EXTINF:-1,Game Of Thrones s06e02-Home [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3451.mkv
+#EXTINF:-1,Game Of Thrones s06e03-Oathbreaker [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3497.mkv
+#EXTINF:-1,Game Of Thrones s06e04-Book of the Stranger [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3516.mkv
+#EXTINF:-1,Game Of Thrones s06e05-The Door [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3532.mkv
+#EXTINF:-1,Game Of Thrones s06e06-Blood of My Blood [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3547.mkv
+#EXTINF:-1,Game Of Thrones s06e07-The Broken Man [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3622.mkv
+#EXTINF:-1,Game Of Thrones s06e08-No One [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3623.mkv
+#EXTINF:-1,Game Of Thrones s06e09-Battle of the Bastards [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3624.mkv
+#EXTINF:-1,Game Of Thrones s06e10-The Winds of Winter [DA: POR-EN]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3631.mkv
+#EXTINF:-1,Captain America: Civil War (2016) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3659.mp4
+#EXTINF:-1,Zootopia (2016) [ POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3633.mp4
+#EXTINF:-1,The Second Mother (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3661.mp4
+#EXTINF:-1,Mad Max: Fury Road (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3643.mkv
+#EXTINF:-1,The Revenant (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3641.mkv
+#EXTINF:-1,The Danish Girl (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2835.mkv
+#EXTINF:-1,Spectre (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2838.mkv
+#EXTINF:-1,In the Heart of the Sea (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2837.mkv
+#EXTINF:-1,American Hero (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/2836.mkv
+#EXTINF:-1,Minions (2015) [POR]
+http://tv.supertv4u.eu:8000/movie/99jalmir/almirbc/3640.mp4
